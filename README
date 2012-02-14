@@ -14,5 +14,4 @@
 #   -
 #
 # Sample Usage:
-#   sudo::service { "icinga": }
 #   sudo::service { "nagios": }
